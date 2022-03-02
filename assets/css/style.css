@@ -1,0 +1,15 @@
+.row{
+    background-color: antiquewhite;
+    border: coral 5px solid;
+}
+
+.col-lg{
+    border: rgb(0, 79, 131) 5px solid;
+
+}
+
+.col-gal{    
+    background-color: rgb(157, 252, 255);
+    border: rgb(48, 48, 48) 5px solid;
+    height: 150px;
+}
